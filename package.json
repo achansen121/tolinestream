@@ -1,0 +1,17 @@
+{
+  "name": "tolinestream",
+  "version": "1.0.1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "through": "^2.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./test/num.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
